@@ -96,7 +96,7 @@ body{
     background-color: #d0eaaf;
 }
 
-button{
+.button{
     background-color: #01796f;
     border-radius: 5px;
     border: 1px solid #013220;
@@ -106,7 +106,7 @@ button{
     margin-left: 0px;
 }
 .double{
-    flex-basis: 47%;
+    flex-basis: 74%;
 }
 
 .triple{
